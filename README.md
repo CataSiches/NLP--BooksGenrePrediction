@@ -1,2 +1,5 @@
-# DataScieceIII-SichesCatalina
-Trabajos para carrera Data Science en CoderHouse
+# Book Genre Prediction
+
+Trabajo para carrera Data Science en CoderHouse, Data Science III
+
+
